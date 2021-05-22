@@ -7,3 +7,9 @@ Visit the [live application](https://squizy.vercel.app)
 - NextJS
 - Typescript
 - SCSS
+
+### Todo
+
+- [] Add difficulty setting
+- [] Add loading spinner
+- [] Make request for each question and answers
