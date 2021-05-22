@@ -10,6 +10,6 @@ Visit the [live application](https://squizy.vercel.app)
 
 ### Todo
 
-- [] Add difficulty setting
-- [] Add loading spinner
-- [] Make request for each question and answers
+- [ ] Add difficulty setting
+- [ ] Add loading spinner
+- [ ] Make request for each question and answers
